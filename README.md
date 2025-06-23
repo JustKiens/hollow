@@ -20,17 +20,17 @@
 
 ```bash
 /ask question: What's the meaning of life?
-```bash
+```
 
 🚀 Getting Started
 1. Clone the Repository
-bash
+```bash
 Copy
 Edit
 git clone https://github.com/your-username/hollow.git
 cd hollow
 2. Install Dependencies
-bash
+```
 Copy
 Edit
 npm install
