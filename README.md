@@ -18,8 +18,9 @@
 
 ## 🧠 Example Usage
 
-bash
+```bash
 /ask question: What's the meaning of life?
+```bash
 
 🚀 Getting Started
 1. Clone the Repository
